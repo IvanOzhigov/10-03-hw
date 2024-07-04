@@ -38,7 +38,7 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
  
 ## Ответ
-![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/1-1.png)
+![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/1-1.png)
 ![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/1-2.png)
 ![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/1-3.png)
  
