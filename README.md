@@ -39,8 +39,8 @@
  
 ## Ответ
 ![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/1-1.png)
-![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/1-2.png)
-![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/1-3.png)
+![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/1-2.png)
+![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/1-3.png)
  
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
@@ -50,9 +50,9 @@
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ## Ответ
-![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/2-1.png)
-![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/2-2.png)
-![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/sсrin/2-3.png)
+![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/2-1.png)
+![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/2-2.png)
+![alt text](https://github.com/IvanOzhigov/10-03-hw/blob/scrin/2-3.png)
  
 ---
  
